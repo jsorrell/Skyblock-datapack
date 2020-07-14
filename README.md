@@ -10,7 +10,7 @@ Pair this with the mod [jsorrell/skyblock](https://github.com/jsorrell/skyblock)
 - A nether star in a blast furnace creates netherrite
 - A nether wart block in a blast furnace create netherrack
 - Gold blocks around an apple makes a notch apple
-- There's a small chance to catch an elytra as fishing treasure
+- There's a small chance to catch an elytra as fishing treasure when fishing in the End
 
 # Disabled recipes
 - Removed the ability to craft slime and blaze powder into magma cream
