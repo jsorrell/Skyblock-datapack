@@ -1,12 +1,11 @@
 # Skyblock-datapack
-Datapack enabling previously unobtainable/barely obtainable resources for 1.16 Skyblock
+Datapack enabling previously unobtainable/barely obtainable resources for 1.16.2 Skyblock
 
 Ideas taken from [DeadlyMC/Skyblock-datapack](https://github.com/DeadlyMC/Skyblock-datapack)
 
 Pair this with the mod [jsorrell/skyblock](https://github.com/jsorrell/skyblock)
 
 # Added recipes
-- Cobble in a blast furnace creates blackstone
 - A nether star in a blast furnace creates netherrite
 - A nether wart block in a blast furnace create netherrack
 - Gold blocks around an apple makes a notch apple
